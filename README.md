@@ -2,9 +2,9 @@
 
 ## 📚 Overview
 
-This is an educational project demonstrating **Code Smells** and their refactoring solutions in **Java Spring Boot**. The examples are based on the comprehensive catalog from [Refactoring Guru](https://refactoring.guru/refactoring/smells).
+This is project demonstrating **Code Smells** and their refactoring solutions in **Java Spring Boot**.
 
-This repository is designed for **6th semester students** to understand code quality issues and learn how to write better, more maintainable code.
+This repository is designed for to understand code quality issues and learn how to write better, more maintainable code.
 
 ## 🎯 Learning Objectives
 
@@ -204,28 +204,13 @@ public double processOrder(String customerId, List<String> items, String shippin
 - Reduce duplication
 - Keep coupling low, cohesion high
 
-## 📚 Additional Resources
-
-- [Refactoring Guru - Code Smells](https://refactoring.guru/refactoring/smells)
-- [Refactoring Guru - Refactoring Techniques](https://refactoring.guru/refactoring/techniques)
-- [Clean Code by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [Refactoring by Martin Fowler](https://martinfowler.com/books/refactoring.html)
-
-## 🤝 Contributing
-
-This is an educational project. Feel free to:
-- Add more examples
-- Improve documentation
-- Fix issues
-- Suggest new code smells to cover
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍🎓 Target Audience
 
-- 6th semester Computer Science students
+- Computer Science students
 - Software Engineering students
 - Junior developers learning code quality
 - Anyone interested in writing better code
