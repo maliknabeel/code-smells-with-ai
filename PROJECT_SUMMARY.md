@@ -32,6 +32,11 @@ This educational repository has been successfully created to teach code smells a
 - **Feature Envy** - Complete with Move Method refactoring
 - **Message Chains** - Complete with Hide Delegate pattern
 
+#### ✅ Change Preventers (3 smells)
+- **Divergent Change** - Complete with extraction of responsibilities
+- **Shotgun Surgery** - Complete with centralized TaxService
+- **Parallel Inheritance Hierarchies** - Complete with composition over parallel hierarchies
+
 ### 3. Comprehensive Documentation
 
 #### Main Documentation Files
@@ -90,11 +95,11 @@ This educational repository has been successfully created to teach code smells a
 
 ## 📊 Project Statistics
 
-- **Total Java Files**: 45
-- **Lines of Code**: ~5,000+
+- **Total Java Files**: 69
+- **Lines of Code**: ~5,300+
 - **Documentation**: 33,000+ words
-- **Code Smells Demonstrated**: 10
-- **Categories Covered**: 4 of 5 (Bloaters, OOP Abusers, Dispensables, Couplers)
+- **Code Smells Demonstrated**: 13
+- **Categories Covered**: 5 of 5 (Bloaters, OOP Abusers, Dispensables, Couplers, Change Preventers)
 - **Package Structures**: Complete hierarchy with bad/good examples
 
 ## 🏗️ Project Structure

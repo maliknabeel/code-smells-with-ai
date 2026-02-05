@@ -97,6 +97,11 @@ Dispensables:
 Couplers:
   Feature Envy:          couplers.featureenvy.bad/good
   Message Chains:        couplers.messagechain.bad/good
+ 
+Change Preventers:
+  Divergent Change:      changepreventers.divergentchange.bad/good
+  Shotgun Surgery:       changepreventers.shotgunsurgery.bad/good
+  Parallel Inheritance:  changepreventers.parallelinheritance.bad/good
 ```
 
 ## 🔍 How to Read the Examples
